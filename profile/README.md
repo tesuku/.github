@@ -8,3 +8,4 @@
 ## 2. PRODUCT 
 * [i-Cheese](https://icheese.jp/)
 * [X（Twitter）](https://x.com/Tesc_iCheese)
+* [youtube](https://www.youtube.com/@TESC-iCheese)
